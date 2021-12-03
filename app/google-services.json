@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "949271698766",
+    "project_id": "insti-dam-2021",
+    "storage_bucket": "insti-dam-2021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949271698766:android:4322c3f397d942bb59d21f",
+        "android_client_info": {
+          "package_name": "tk.faridcodeur.insti2021"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949271698766-1vmra1llfv59hllo858crki1ds8rkcrn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tk.faridcodeur.insti2021",
+            "certificate_hash": "89bc751efc94b79b5d5013ee60652674289d0766"
+          }
+        },
+        {
+          "client_id": "949271698766-bcur7eg0igoqoqa8d2v7b7jd7bi275g8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYneUyY185_nbxYt-80TTIBoaZBFG2PTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949271698766-bcur7eg0igoqoqa8d2v7b7jd7bi275g8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
